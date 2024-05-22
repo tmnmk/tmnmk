@@ -1,4 +1,4 @@
-# Hi there, I'm Maksim Kakourov 👋
+# Hi there, My name is Max 👋
 
 ## About Me
 I'm a passionate network engineer with a huge background in IT. Proven track record in building and maintaining large networks. 
